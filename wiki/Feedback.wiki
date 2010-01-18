@@ -25,6 +25,6 @@ http://blog.eastmoney.com/
 http://blog.eastmoney.com/
 }}}
 
-说明：第一行是名称，其余各行一行一个网址。每一组最多10个网址。
+说明：第一行是名称，其余各行，一行一个网址。每一组不超过10个网址，一般5个左右为宜。
 
 邮件发送到 zhuantizhan@gmail.com 
