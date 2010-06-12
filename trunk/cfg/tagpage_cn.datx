@@ -1,0 +1,407 @@
+<body topmargin="5">
+
+<table border="0" width="100%" cellpadding="10" bgcolor="#808080">
+	<tr>
+		<td><span style="font-weight: 700">
+		<font color="#FFFFFF" face="Verdana" style="font-size: 14px">TAG专题盒子搜索：</font><font face="Verdana" style="font-size: 14px" color="#FFFF00">{view_tag_gbk}</font></span></td>
+	</tr>
+</table>
+<table border="0" width="100%" cellpadding="5" bgcolor="#F6F6F6">
+	<tr>
+		<td valign="top" width="50%" bgcolor="#F0F0F0">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">传统</span></font></td>
+		<td valign="top" width="50%" bgcolor="#F0F0F0">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">知识</span></font></td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%" bgcolor="#FFFFE8">
+		<ul>
+			<li><font face="Verdana"><b><a href=http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&client=pub-1793899669566598&prog=aff&q={tag_utf8}&aq=f&aqi=g10&aql=&oq=&gs_rfai=[]http://cn.bing.com/search?q={tag_utf8}[]http://www.soso.com/q?w={tag_gbk}[]http://www.youdao.com/search?q={tag_utf8}&ue=utf8[]http://one.cn.yahoo.com/s?p={tag_utf8}&pid=hp&v=web[]http://www.baidu.com/s?wd={tag_gbk}&tn=r618&tr=mbxnW11j9Df title='【】 - google 搜索&#13;【】 - 必应 bing&#13;【】 - 搜搜网页&#13;【】 - 有道搜索&#13;【】_雅虎网页搜索&#13;【】百度搜索_&#13;'>
+			<span style="font-size: 14px">页面</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href="http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&client=pub-1793899669566598&prog=aff&q={tag_utf8}&aq=f&aqi=g10&aql=&oq=&gs_rfai=">
+			谷歌</a>
+			<a href=http://cn.bing.com/search?q={tag_utf8} title=' - 必应 bing' >必应</a>
+			<a href=http://www.soso.com/q?w={tag_gbk} title=' - 搜搜网页'>搜搜</a>
+			<a href=http://www.youdao.com/search?q={tag_utf8}&ue=utf8 title=' - 有道搜索'>有道</a>
+			<a href=http://one.cn.yahoo.com/s?p={tag_utf8}&pid=hp&v=web title='_雅虎网页搜索'>雅虎</a>
+			</span>
+			<a href=http://www.baidu.com/s?wd={tag_gbk}&tn=r618&tr=mbxnW11j9Df title='百度搜索_'>
+			<span style="font-size: 14px">百度</span></a></font><li>
+			<font face="Verdana">
+			<b>
+			<a href=http://images.google.com.hk/images?gbv=2&source=hp&hl=zh-CN&q={tag_utf8}&btnG=%E6%90%9C%E7%B4%A2%E5%9B%BE%E7%89%87&aq=f[]http://cn.bing.com/images/search?q={tag_utf8}&FORM=BIFD#[]http://image.youdao.com/search?q={tag_utf8}[]http://image.sogou.com/pics?query={tag_gbk}&mode=1&di=2&w=05009900&p=&_asf=pic.sogou.com&_ast=1273223455[]http://image.baidu.com/i?ct=201326592&cl=2&lm=-1&tn=baiduimage&pv=&z=0&word={tag_gbk}&s=0 title='【】 - google 搜索&#13;【】 - 必应 bing 图片&#13;【】 - 搜搜图片&#13;【】 - 有道图片搜索&#13;【】_雅虎图片搜索&#13;【】搜狗图片搜索-&#13;【】百度图片搜索_&#13;'>
+			<span style="font-size: 14px">图片</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://images.google.com.hk/images?gbv=2&source=hp&hl=zh-CN&q={tag_utf8}&btnG=%E6%90%9C%E7%B4%A2%E5%9B%BE%E7%89%87&aq=f title=' - google 搜索' >
+			谷歌</a>
+			<a href=http://cn.bing.com/images/search?q={tag_utf8}&FORM=BIFD# title=' - 必应 bing 图片'>必应图片</a>
+			<a href=http://image.youdao.com/search?q={tag_utf8} title=' - 有道图片搜索'>有道图片</a>
+			<a href=http://image.sogou.com/pics?query={tag_gbk}&mode=1&di=2&w=05009900&p=&_asf=pic.sogou.com&_ast=1273223455 title='搜狗图片搜索-'>搜狗</a>
+			</span>
+			<a href=http://image.baidu.com/i?ct=201326592&cl=2&lm=-1&tn=baiduimage&pv=&z=0&word={tag_gbk}&s=0 title='百度图片搜索_'>
+			<span style="font-size: 14px">百度</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://blogsearch.google.cn/blogsearch?hl=zh-CN&ie=UTF-8&q={tag_utf8}&lr=[]http://blog.youdao.com/search?q={tag_utf8}[]http://uni.sina.com.cn/c.php?t=blog&k={tag_gbk}&ts=bpost[]http://blogsearch.sogou.com/blog?query={tag_gbk}&num=10&w=07010300[]http://blogsearch.baidu.com/s?tn=baidublog&bsm=0&ct=2097152&wd={tag_gbk}&cl=3[]http://hi.baidu.com/sys/search?word={tag_gbk}&type=1&sort=1&entry=1&region=0 title='【】 - google 博客搜索&#13;【】 - 有道博客搜索&#13;【】_博客搜索结果_新浪社区搜索&#13;【】搜狗博客搜索_ &#13;【】百度博客搜索_ &#13;【】百度空间&#13;'>
+			<span style="font-size: 14px">博客</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+<a href=http://blogsearch.google.cn/blogsearch?hl=zh-CN&ie=UTF-8&q={tag_utf8}&lr= title=' - google 博客搜索' >
+谷歌</a>
+<a href=http://blog.soso.com/qz.q?sc=qz&pid=qz.s.res&ty=blog&st=r&op=blog.blog&sd=0&w={tag_gbk} title=' - 搜搜博客'>搜搜</a>
+<a href=http://blog.youdao.com/search?q={tag_utf8} title=' - 有道博客搜索'>有道</a>
+<a href=http://uni.sina.com.cn/c.php?t=blog&k={tag_gbk}&ts=bpost title='_博客搜索结果_新浪社区搜索'>新浪</a>
+<a href=http://blogsearch.sogou.com/blog?query={tag_gbk}&num=10&w=07010300 title='搜狗博客搜索_ '>搜狗</a>
+<a href=http://blogsearch.baidu.com/s?tn=baidublog&bsm=0&ct=2097152&wd={tag_gbk}&cl=3 title='百度博客搜索_ '>百度</a></span></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://news.google.com/news/search?pz=1&cf=all&ned=cn&hl=zh-CN&q={tag_utf8}[]http://cn.bing.com/news/search?q={tag_utf8}&form=QBNB[]http://news.sogou.com/news?query={tag_gbk}&sort=0&time=0&w=03009900&_asf=news.sogou.com&_ast=&mode=1[]http://news.baidu.com/ns?word={tag_gbk}&tn=news&from=news&cl=2&rn=20&ct=1 title='【】 - google 资讯&#13;【】 - 必应 bing 资讯&#13;【】搜狗新闻搜索：&#13;【】百度新闻搜索_&#13;'>
+			<span style="font-size: 14px">新闻</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://news.google.com/news/search?pz=1&cf=all&ned=cn&hl=zh-CN&q={tag_utf8} title=' - google 资讯' >
+			Google资讯</a>
+			<a href=http://cn.bing.com/news/search?q={tag_utf8}&form=QBNB title=' - 必应 bing 资讯'>必应资讯</a>
+			<a href=http://news.sogou.com/news?query={tag_gbk}&sort=0&time=0&w=03009900&_asf=news.sogou.com&_ast=&mode=1 title='搜狗新闻搜索：'>搜狗新闻</a>
+			</span>
+			<a href=http://news.baidu.com/ns?word={tag_gbk}&tn=news&from=news&cl=2&rn=20&ct=1 title='百度新闻搜索_'>
+			<span style="font-size: 14px">百度新闻</span></a></font></li>
+			<li>
+			<font face="Verdana">  
+<b>  
+<a href=http://bbs.sogou.com/search/say.jsp?query={tag_gbk}&r=k&w=04000000&sid=[]http://tieba.baidu.com/f?ct=352321536&tn=baiduPostSearch&rn=10&pn=0&lm=65536&cm=0&kw=&rs2=1&sc=&un=&rs1=&rs5=&sn=&rs6=&myselectvalue=0&word={tag_gbk}&submit=%B0%D9%B6%C8%D2%BB%CF%C2&tb=on title='【】搜狗搜索&#13;【】百度贴吧_&#13;'>
+<span style="font-size: 14px">贴吧</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px"><a href=http://bbs.sogou.com/search/say.jsp?query={tag_gbk}&r=k&w=04000000&sid= title='搜狗搜索' >搜狗搜索</a>
+</span>
+<a href=http://tieba.baidu.com/f?ct=352321536&tn=baiduPostSearch&rn=10&pn=0&lm=65536&cm=0&kw=&rs2=1&sc=&un=&rs1=&rs5=&sn=&rs6=&myselectvalue=0&word={tag_gbk}&submit=%B0%D9%B6%C8%D2%BB%CF%C2&tb=on title='百度贴吧_'>
+<span style="font-size: 14px">百度贴吧</span></a></font></li>
+			<li>
+			<font face="Verdana">  
+			<b>
+			<span style="font-size: 14px">
+			<a href=http://cn.bing.com/videos/search?q={tag_utf8}&form=QBLH&scope=video&filt=all&qs=n&sk=#[]http://so.youku.com/search_video/q_{tag_utf8}[]http://v.sogou.com/v?query={tag_gbk}&w=06009900&p=&_asf=v.sogou.com&_ast=1273247914&sc=index[]http://video.youdao.com/search?q={tag_utf8}&ue=utf8&keyfrom=video.index&st=v[]http://video.baidu.com/v?word={tag_gbk}&ct=301989888&rn=20&pn=0&db=0&s=0&fbl=800 title='【】 - 必应 bing 视频&#13;【】 优酷视频&#13;【】-搜狗视频搜索&#13;【】-有道视频搜索&#13;【】百度视频搜索_&#13;'>
+			视频</a>:
+			</span></b><span style="font-size: 14px">
+	<a href=http://cn.bing.com/videos/search?q={tag_utf8}&form=QBLH&scope=video&filt=all&qs=n&sk=# title=' - 必应 bing 视频' >必应视频</a>
+			<a href=http://so.youku.com/search_video/q_{tag_utf8} title=' 优酷视频'>优酷</a>
+			<a href=http://v.sogou.com/v?query={tag_gbk}&w=06009900&p=&_asf=v.sogou.com&_ast=1273247914&sc=index title='-搜狗视频搜索'>搜狗视频</a>
+			<a href=http://video.youdao.com/search?q={tag_utf8}&ue=utf8&keyfrom=video.index&st=v title='-有道视频搜索'>有道视频</a>
+			</span>
+			<a href=http://video.baidu.com/v?word={tag_gbk}&ct=301989888&rn=20&pn=0&db=0&s=0&fbl=800 title='百度视频搜索_'>
+			<span style="font-size: 14px">百度视频</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://wenda.sogou.com/search?query={tag_gbk}[]http://iask.sina.com.cn/search_engine/search_knowledge_engine.php?key={tag_gbk}[]http://zhidao.baidu.com/q?word={tag_gbk}&ct=17&pn=0&tn=ikaslist&rn=10&lm=0&fr=search title='【】搜索-搜狗问答&#13;【】爱问搜索&#13;【】百度知道搜索_&#13;'>
+<span style="font-size: 14px">问答</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href=http://wenda.sogou.com/search?query={tag_gbk} title='搜索-搜狗问答' >搜狗问答</a>
+<a href=http://iask.sina.com.cn/search_engine/search_knowledge_engine.php?key={tag_gbk} title='爱问搜索'>爱问搜索</a> </span>
+<a href=http://zhidao.baidu.com/q?word={tag_gbk}&ct=17&pn=0&tn=ikaslist&rn=10&lm=0&fr=search title='百度知道搜索_'>
+<span style="font-size: 14px">百度知道</span></a></font></li>
+			<li>  
+			<font face="Verdana">
+			<b>
+			<a href=http://ditu.google.cn/maps?hl=zh-CN&safe=strict&q={tag_utf8}&um=1&ie=UTF-8&sa=N&tab=wl[]http://cn.bing.com/ditu/?q={tag_utf8}&mkt=zh-CN[]http://ditu.youdao.com/#q={tag_utf8}[]http://map.baidu.com/m?word={tag_gbk}&fr=ps01000 title='【】 - google 地图&#13;【】市 的地图 - 必应 bing 地图&#13;【】有道地图搜索&#13;【】百度地图&#13;'>
+			<span style="font-size: 14px">地图</span></a><span style="font-size: 14px">:
+			</span></b>
+			<a href=http://ditu.google.cn/maps?hl=zh-CN&safe=strict&q={tag_utf8}&um=1&ie=UTF-8&sa=N&tab=wl title=' - google 地图' >
+			<span style="font-size: 14px">Google地图</span></a><span style="font-size: 14px">
+			<a href=http://cn.bing.com/ditu/?q={tag_utf8}&mkt=zh-CN title='市 的地图 - 必应 bing 地图'>必应地图</a>
+			<a href=http://ditu.youdao.com/#q={tag_utf8} title='有道地图搜索'>有道地图</a>
+			</span>
+			<a href=http://map.baidu.com/m?word={tag_gbk}&fr=ps01000 title='百度地图'>
+			<span style="font-size: 14px">百度地图</span></a><span style="font-size: 14px">
+			</span> 
+			</font> 
+			</li>
+		</ul>
+		</td>
+		<td valign="top" width="50%" bgcolor="#FFFFEC">
+		<ul>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://search.cnki.net/search.aspx?q={tag_utf8}[]http://scholar.google.com.hk/scholar?q={tag_utf8}&hl=zh-CN&lr=[]http://www.scirus.com/srsapp/search?q={tag_utf8}&t=all&sort=0&g=s[]http://guoxue.baidu.com/s?tn=baiduguoxue&ie=gb2312&bs=%B0%D9%B6%C8+%D1%A7%CA%F5&cl=3&si=guoxue.baidu.com&word={tag_gbk}&ct=2097152 title='【】 - cnki知识搜索&#13;【】 - google 学术搜索&#13;【】 results on scirus.com, for scientific information&#13;【】百度搜索_&#13;'>
+			<span style="font-size: 14px">学术</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://search.cnki.net/search.aspx?q={tag_utf8} title=' - cnki知识搜索' >
+			CNKI知识</a>
+			<a href=http://scholar.google.com.hk/scholar?q={tag_utf8}&hl=zh-CN&lr= title=' - google 学术搜索'>
+			Google学术</a>
+			<a href=http://www.scirus.com/srsapp/search?q={tag_utf8}&t=all&sort=0&g=s title=' results on scirus.com, for scientific information'>
+			Scirus</a>
+			</span>
+			<a href=http://guoxue.baidu.com/s?tn=baiduguoxue&ie=gb2312&bs=%B0%D9%B6%C8+%D1%A7%CA%F5&cl=3&si=guoxue.baidu.com&word={tag_gbk}&ct=2097152 title='百度搜索_'>
+			<span style="font-size: 14px">百度</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://zh.wikipedia.org/w/index.php?search={tag_utf8}&fulltext=%E6%90%9C%E7%B4%A2[]http://baike.baidu.com/w?ct=17&lm=0&tn=baiduWikiSearch&pn=0&rn=10&word={tag_gbk}&submit=search title='【】 - 搜索结果 - 维基百科，自由的百科全书&#13;【】百度百科_搜索_ &#13;'>
+<span style="font-size: 14px">百科</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+	<a href=http://zh.wikipedia.org/w/index.php?search={tag_utf8}&fulltext=%E6%90%9C%E7%B4%A2 title=' - 搜索结果 - 维基百科，自由的百科全书' >维基百科</a>
+</span>
+<a href=http://baike.baidu.com/w?ct=17&lm=0&tn=baiduWikiSearch&pn=0&rn=10&word={tag_gbk}&submit=search title='百度百科_搜索_ '>
+<span style="font-size: 14px">百度百科</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://www.iciba.com/{tag_utf8}/[]http://www.engkoo.com/?FORM=BNGCN#{tag_utf8}[]http://dict.cn/{tag_utf8}[]http://dict.baidu.com/s?wd={tag_gbk}&f=3 title='【】是什么意思_翻译_爱词霸在线词典&#13;【】微软英库，在线词典，在线翻译，英语学习引擎&#13;【】翻译用英语怎么说，如何用英文地道表达 - dict.cn 海词词典&#13;【】词典百度搜索_百科&#13;'>
+<span style="font-size: 14px">词典</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href=http://www.iciba.com/{tag_utf8}/ title='是什么意思_翻译_爱词霸在线词典' >爱词霸</a>
+<a href=http://www.engkoo.com/?FORM=BNGCN#{tag_utf8} title='微软英库，在线词典，在线翻译，英语学习引擎'>微软英库</a>
+<a href=http://dict.cn/{tag_utf8} title='翻译用英语怎么说，如何用英文地道表达 - dict.cn 海词词典'>海词词典</a>
+</span><a href=http://dict.baidu.com/s?wd={tag_gbk}&f=3 title='词典百度搜索_百科'>
+<span style="font-size: 14px">词典百度</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://books.google.com/books?q={tag_utf8}&hl=zh-CN[]http://book.baidu.com/s?tn=baidubook&ct=2097152&si=book.baidu.com&cl=3&wd={tag_gbk}[]http://search.dangdang.com/search.php?catalog=&key={tag_gbk}&SearchFromTop=1 title='【】 - 我的图书馆 - google 图书&#13;【】_百度图书&#13;【】当当搜索-&#13;'>
+			<span style="font-size: 14px">图书</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://books.google.com/books?q={tag_utf8}&hl=zh-CN title=' - 我的图书馆 - google 图书' >
+			谷歌图书</a>&nbsp;<a href=http://book.baidu.com/s?tn=baidubook&ct=2097152&si=book.baidu.com&cl=3&wd={tag_gbk} title='_百度图书'>百度图书</a>&nbsp;</span><a href=http://search.dangdang.com/search.php?catalog=&key={tag_gbk}&SearchFromTop=1 title='当当搜索-'><span style="font-size: 14px">当当</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://www.ucloo.com/people/search/{tag_utf8}.html[]http://cn.bing.com/xrank/search?q={tag_utf8}&form=QBCR&scope=celebrity title='【】ucloo优库 全球最大中文搜人引擎：  — chinese people search engine&#13;【】 - 必应 bing 人气榜&#13;'>
+			<span style="font-size: 14px">人物</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px"> 
+<a href=http://www.ucloo.com/people/search/{tag_utf8}.html title='ucloo优库 全球最大中文搜人引擎：  — chinese people search engine' >优库搜人</a>&nbsp;</span><a href=http://cn.bing.com/xrank/search?q={tag_utf8}&form=QBCR&scope=celebrity title=' - 必应 bing 人气榜'><span style="font-size: 14px">必应人气</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://www.qseek.net/law/search.php?k=[]http://law.baidu.com/s?tn=baidulaw&cl=0&ct=2097152&si=law.baidu.com&word={tag_gbk} title='【】qseek中国法律搜索引擎 法律查询 法规搜索 法律法规 搜索 &#13;【】百度搜索_&#13;'>
+			<span style="font-size: 14px">法律</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://www.qseek.net/law/search.php?k= title='qseek中国法律搜索引擎 法律查询 法规搜索 法律法规 搜索 ' >
+			Gseek法律</a>
+			</span>
+			<a href=http://law.baidu.com/s?tn=baidulaw&cl=0&ct=2097152&si=law.baidu.com&word={tag_gbk} title='百度搜索_'>
+			<span style="font-size: 14px">百度法律</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://www.google.com/patents?q={tag_utf8}[]http://www.soopat.com/home/result?SearchWord={tag_gbk}[]http://zhuanli.baidu.com/s?tn=baiduzhuanli&ie=gb2312&bs=&cl=3&si=zhuanli.baidu.com&ct=2097152&wd={tag_gbk}&ver=3 title='【】 - google patent search&#13;【】_soopat 专利搜索&#13;【】百度搜索_&#13;'>
+			<span style="font-size: 14px">专利</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://www.google.com/patents?q={tag_utf8} title=' - google patent search' >
+谷歌专利</a>&nbsp;<a href=http://www.soopat.com/home/result?SearchWord={tag_gbk} title='_soopat 专利搜索'>Soopat专利</a>&nbsp;</span><span style="font-size: 14px"><a href=http://zhuanli.baidu.com/s?tn=baiduzhuanli&ie=gb2312&bs=&cl=3&si=zhuanli.baidu.com&ct=2097152&wd={tag_gbk}&ver=3 title='百度搜索_'>百度专利</a></span></font></li>
+			<li>
+<font face="Verdana">  
+<b>  
+<a href=http://tjsj.baidu.com/s?tn=baidusoushu&ct=2097152&si=tjsj.baidu.com&ie=gb2312&wd={tag_gbk}&cl=3[]http://data.baidu.com/results.php?wd={tag_gbk} title='【】百度搜索_&#13;【】财经数据百度&#13;'>
+<span style="font-size: 14px">数据</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px"><a href=http://tjsj.baidu.com/s?tn=baidusoushu&ct=2097152&si=tjsj.baidu.com&ie=gb2312&wd={tag_gbk}&cl=3 title='百度搜索_' >百度</a>
+</span><a href=http://data.baidu.com/results.php?wd={tag_gbk} title='财经数据百度'>
+<span style="font-size: 14px">数据百度</span></a></font></li>
+		</ul>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%" bgcolor="#F6F6F6">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">
+		资源信息</span></font></td>
+		<td valign="top" width="50%" bgcolor="#F6F6F6">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">娱乐</span></font></td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%" bgcolor="#FFFFE8">
+		<ul>
+			<li>  
+<font face="Verdana">  
+<b>
+<a href=http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&prmdo=1&tbs=rltm:1&q={tag_utf8}&aq=f&aqi=g10&aql=&oq=&gs_rfai=[]http://www.youdao.com/rt?ue=utf8&keyfrom=realtime.top&q={tag_utf8} title='【】 - google 搜索&#13;【】 - 有道搜索&#13;'>
+<span style="font-size: 14px">最新</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href="http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&prmdo=1&tbs=rltm:1&q={tag_utf8}&aq=f&aqi=g10&aql=&oq=&gs_rfai=">
+谷歌最新</a> </span>
+<a href=http://www.youdao.com/rt?ue=utf8&keyfrom=realtime.top&q={tag_utf8} title=' - 有道搜索'>
+<span style="font-size: 14px">有道最新</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://www.google.com.hk/search?q={tag_utf8}&hl=zh-CN&safe=strict&prmd=mnlvi&source=lnms&tbs=mbl:1&ei=r9PjS7GwItCgkQXun_kJ&sa=X&oi=mode_link&ct=mode&ved=0CCIQ_AU&prmdo=1[]http://t.163.com/tag/{tag_utf8}[]http://t.sohu.com/search/index.jsp?key={tag_gbk}[]http://t.sina.com.cn/k/{tag_gbk} title='【】关于的微博_微博搜索_网易微博&#13;【】搜索 - 搜狐微博&#13;【】话题搜索 新浪微博-随时随地分享身边的新鲜事儿&#13;'>
+<span style="font-size: 14px">微博</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href=http://www.google.com.hk/search?q={tag_utf8}&hl=zh-CN&safe=strict&prmd=mnlvi&source=lnms&tbs=mbl:1&ei=r9PjS7GwItCgkQXun_kJ&sa=X&oi=mode_link&ct=mode&ved=0CCIQ_AU&prmdo=1 title=' - google 搜索' >
+Google微博</a></span><b><span style="font-size: 14px">
+</span></b><span style="font-size: 14px">
+	<a href=http://t.163.com/tag/{tag_utf8} title='关于的微博_微博搜索_网易微博' >网易微博</a>
+<a href=http://t.sohu.com/search/index.jsp?key={tag_gbk} title='搜索 - 搜狐微博'>搜狐微博</a>
+</span>
+<a href=http://t.sina.com.cn/k/{tag_gbk} title='话题搜索 新浪微博-随时随地分享身边的新鲜事儿'>
+<span style="font-size: 14px">新浪微博</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://so.56.com/index?st=2&key={tag_utf8}&charset=utf-8&type=&bn=&kw=[]http://so.youku.com/search_video/q_{tag_utf8}[]http://so.tudou.com/isearch/{tag_utf8}/ title='【】 - 56.com 视频搜索&#13;【】 优酷视频&#13;【】搜索视频： - 土豆网 视频搜索 在线观看&#13;'>
+			<span style="font-size: 14px">视频站</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+	<a href=http://so.56.com/index?st=2&key={tag_utf8}&charset=utf-8&type=&bn=&kw= title=' - 56.com 视频搜索' >56.com</a>
+			<a href=http://so.youku.com/search_video/q_{tag_utf8} title=' 优酷视频'>优酷</a>
+			</span>
+			<a href=http://so.tudou.com/isearch/{tag_utf8}/ title='搜索视频： - 土豆网 视频搜索 在线观看'>
+			<span style="font-size: 14px">土豆网</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://www.verycd.com/search/folders/{tag_utf8}[]http://x.soso.com/cgi-bin/rssearch/rssearch?q={tag_gbk}&ContentClass=0&fm=&position=1[]http://www.gougou.com/search?search={tag_utf8}&id=1 title='【】_verycd电驴下载搜索&#13;【】搜索结果——&#13;【】狗狗搜索-&#13;'>
+<span style="font-size: 14px">资源</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href=http://www.verycd.com/search/folders/{tag_utf8} title='_verycd电驴下载搜索' >
+VeryCD电驴</a>
+<a href=http://x.soso.com/cgi-bin/rssearch/rssearch?q={tag_gbk}&ContentClass=0&fm=&position=1 title='搜索结果——'>
+SOSO资源</a> </span>
+<a href=http://www.gougou.com/search?search={tag_utf8}&id=1 title='狗狗搜索-'>
+<span style="font-size: 14px">狗狗资源</span></a></font></li>
+		</ul>
+		</td>
+		<td valign="top" width="50%" bgcolor="#FFFFEC">
+		<ul>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://www.ppfilm.cn/search/?q={tag_utf8}&ie=UTF-8&ps=10&np=1&fm=off&app=pipi2&cl=4[]http://www.qvodsou.com/search/search.do?q={tag_utf8}[]http://search.xunlei.com/search.php?keyword={tag_utf8} title='【】ppfilm-电影、电视剧等视频搜索&#13;【】 - qvod快播影视资源搜索站 - 快播搜-快播影院-快播电影-小电影-qvod电影网站&#13;【】--迅雷看看站内搜索&#13;'>
+<span style="font-size: 14px">电影</span></a><span style="font-size: 14px">:
+</span></b>
+<a href="http://www.ppfilm.cn/search/?q={tag_utf8}&ie=UTF-8&ps=10&np=1&fm=off&app=pipi2&cl=4">
+<span style="font-size: 14px">P</span></a><span style="font-size: 14px"><a href=http://www.ppfilm.cn/search/?q={tag_utf8}&ie=UTF-8&ps=10&np=1&fm=off&app=pipi2&cl=4 title='ppfilm-电影、电视剧等视频搜索' >pfilm</a>
+<a href=http://www.qvodsou.com/search/search.do?q={tag_utf8} title=' - qvod快播影视资源搜索站 - 快播搜-快播影院-快播电影-小电影-qvod电影网站'>
+Qvod快播</a>
+</span>
+<a href=http://search.xunlei.com/search.php?keyword={tag_utf8} title='--迅雷看看站内搜索'>
+<span style="font-size: 14px">迅雷</span></a><b><span style="font-size: 14px">
+</span></b> 
+			</font> 
+			</li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<span style="font-size: 14px">
+			<a title="【】pps搜索_
+【】 - 搜索结果 - 高清视频尽在pptv网络电视
+【】搜索结果－uusee网络电视-高清影视-精彩直播
+" href="http://so.pps.tv/search?wd={tag_gbk}[]http://ikan.pptv.com/search/?kw={tag_utf8}">网络电视</a>:
+			</span></b><span style="font-size: 14px">
+			<a href=http://so.pps.tv/search?wd={tag_gbk} title='pps搜索_' >
+			PPS</a>
+			<a href=http://ikan.pptv.com/search/?kw={tag_utf8} title=' - 搜索结果 - 高清视频尽在pptv网络电视'>
+			PPTV</a></span></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://m.iask.com/g?k={tag_gbk}&ss=all[]http://mp3.sogou.com/music.so?query={tag_gbk}&class=1&pf=&st=&ac=1&_asf=mp3.sogou.com&_ast=1273282819&w=02009900[]http://mp3.baidu.com/m?f=ms&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word={tag_gbk}&lm=-1 title='【】全部音乐- - 爱问音乐搜索&#13;【】mp3试听下载,歌词-搜狗音乐&#13;【】百度mp3搜索_&#13;'>
+<span style="font-size: 14px">音乐</span></a><span style="font-size: 14px">:
+</span></b><span style="font-size: 14px">
+<a href=http://m.iask.com/g?k={tag_gbk}&ss=all title='全部音乐- - 爱问音乐搜索' >爱问音乐</a>
+<a href=http://mp3.sogou.com/music.so?query={tag_gbk}&class=1&pf=&st=&ac=1&_asf=mp3.sogou.com&_ast=1273282819&w=02009900 title='mp3试听下载,歌词-搜狗音乐'>搜狗音乐</a>
+</span>
+<a href=http://mp3.baidu.com/m?f=ms&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word={tag_gbk}&lm=-1 title='百度mp3搜索_'>
+<span style="font-size: 14px">百度mp3</span></a><b><span style="font-size: 14px">
+</span></b> 
+			</font> 
+			</li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<a href=http://so.yule.com.cn/sonews.asp?keyword={tag_gbk}[]http://yule.baidu.com/search/?wd={tag_gbk} title='【】yule316&#13;【】_中国娱乐网&#13;【】搜索_百度娱乐&#13;'>
+			<span style="font-size: 14px">娱乐</span></a><span style="font-size: 14px">:
+			</span></b><span style="font-size: 14px">
+			<a href=http://so.yule.com.cn/sonews.asp?keyword={tag_gbk} title='_中国娱乐网'>娱乐</a>
+			</span>
+			<a href=http://yule.baidu.com/search/?wd={tag_gbk} title='搜索_百度娱乐'>
+			<span style="font-size: 14px">百度娱乐</span></a><b><span style="font-size: 14px">
+			</span></b>
+			</font>
+			</li>
+		</ul></td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%" bgcolor="#F6F6F6">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">财经</span></font></td>
+		<td valign="top" width="50%" bgcolor="#F6F6F6">
+		<font face="Verdana"><span style="font-size: 14px; font-weight: 700">
+		生活消费</span></font></td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%" bgcolor="#FFFFE8">
+		<ul>
+			<li>  
+<font face="Verdana">  
+<b>  
+<span style="font-size: 14px">
+<a title="【】和讯搜索
+【】搜索结果 - mba智库百科
+" href="http://wiki.hexun.com/wikisearch.aspx?sw={tag_gbk}[]http://wiki.mbalib.com/wiki/Sepcial:Search?search={tag_utf8}">财经百科</a>:
+</span></b><span style="font-size: 14px">
+<a title="和讯搜索" href="http://wiki.hexun.com/wikisearch.aspx?sw={tag_gbk}">和讯</a>
+</span>
+<a href=http://wiki.mbalib.com/wiki/Sepcial:Search?search={tag_utf8} title='搜索结果 - mba智库百科'>
+<span style="font-size: 14px">智库百科</span></a></font></li>
+			<li>  
+<font face="Verdana">  
+<b>  
+<a href=http://www.ftchinese.com/search/?keys={tag_utf8}&ftsearchType=type_news[]http://search.cn.reuters.com/query/?blob={tag_utf8}[]http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&client=pub-1793899669566598&prog=aff&q={tag_utf8}+site%3Awsj.com&aq=f&aqi=&aql=&oq=&gs_rfai= title='【】 - ft中文网&#13;【】符合的查询结果 - 路透中文网&#13;'>
+<span style="font-size: 14px">财经站</span></a><span style="font-size: 14px">:
+</span>
+</b>
+<span style="font-size: 14px">
+<a href="http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&client=pub-1793899669566598&prog=aff&q={tag_utf8}+site:wsj.com&aq=f&aqi=&aql=&oq=&gs_rfai=">
+华尔街日报</a><b>  
+</b>
+	<a href=http://www.ftchinese.com/search/?keys={tag_utf8}&ftsearchType=type_news title=' - ft中文网' >
+	金融时报</a> 
+</span>
+<span style="font-size: 14px">
+<a href=http://search.cn.reuters.com/query/?blob={tag_utf8} title='符合的查询结果 - 路透中文网'>
+路透中文</a></span></font></li>
+			<li>  
+<font face="Verdana" style="font-size: 14px"><b>
+<a href="http://t.yicai.com/space.php?searchkey=北京&=微+博&view=doing&do=search&time=all&orderby=dateline[]http://t.hexun.com/k/topic.html?value={tag_gbk}">财经微博</a>:</b>
+<a href="http://t.yicai.com/space.php?searchkey=%E5%8C%97%E4%BA%AC&=%E5%BE%AE+%E5%8D%9A&view=doing&do=search&time=all&orderby=dateline">
+一财微博</a> <a href="http://t.hexun.com/k/topic.html?value={tag_gbk}">和讯微博</a></font><br>
+　</li>
+		</ul>
+		</td>
+		<td valign="top" width="50%" bgcolor="#FFFFEC">
+		<ul>
+			<li>
+			<font face="Verdana">
+			<b><span style="font-size: 14px">
+			<a href=http://www.amazon.cn/s/ref=nb_ss?url=search-alias%3Daps&keywords={tag_utf8}&searchKind=keyword[]http://www.google.cn/products?q={tag_utf8}&aq=f[]http://gouwu.youdao.com/search?q={tag_utf8}&ue=utf-8&keyfrom=gouwu.filtersearch.allcat&allcats&filterkey=cat[]http://sse1.paipai.com/s-zj257nl--1-40-13---3-4-3----2-2--128-0-0.html[]http://youa.baidu.com/search/s?search_domain=1&category=0&keyword={tag_gbk}[]http://search.taobao.com/search?q={tag_gbk}&sort=&at_topsearch=1&f=D9_5_1&promote=&isnew=2&atype=b&commend=all&search_type=item&user_action=initiative&ssid=s5-e&support_cod= title='【】 - amazon.cn-所有类别-卓越亚马逊&#13;【】 - google 购物搜索&#13;【】 - 有道购物搜索&#13;【】--拍拍网&#13;【】_百度有啊&#13;【】淘宝购物&#13;'>购物</a>:
+			</span></b><span style="font-size: 14px">
+	<a href=http://www.amazon.cn/s/ref=nb_ss?url=search-alias%3Daps&keywords={tag_utf8}&searchKind=keyword title=' - amazon.cn-所有类别-卓越亚马逊' >卓越亚马逊</a>
+			<a href=http://www.google.cn/products?q={tag_utf8}&aq=f title=' - google 购物搜索'>
+			谷歌购物</a>
+			<a href=http://gouwu.youdao.com/search?q={tag_utf8}&ue=utf-8&keyfrom=gouwu.filtersearch.allcat&allcats&filterkey=cat title=' - 有道购物搜索'>有道购物</a>
+			<a href=http://sse1.paipai.com/s-zj257nl--1-40-13---3-4-3----2-2--128-0-0.html title='--拍拍网'>拍拍</a>
+			<a href=http://youa.baidu.com/search/s?search_domain=1&category=0&keyword={tag_gbk} title='_百度有啊'>百度有啊</a>
+			</span>
+			<a href=http://search.taobao.com/search?q={tag_gbk}&sort=&at_topsearch=1&f=D9_5_1&promote=&isnew=2&atype=b&commend=all&search_type=item&user_action=initiative&ssid=s5-e&support_cod= title='淘宝购物'>
+			<span style="font-size: 14px">淘宝</span></a></font></li>
+			<li>
+			<font face="Verdana">
+			<b>
+			<span style="font-size: 14px">
+			<a title="【】google 生活搜索 - 工作
+招聘，求职-前程无忧
+【】招聘（求职） 招聘（求职）尽在智联招聘
+【】职位----中华英才网
+" href="http://shenghuo.google.cn/shenghuo/search?a_y0=9&a_n0=工作&q={tag_utf8}&view=Table&a_n1=城市&a_y1=1&a_o1=0&a_v1=沈阳[]http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&q={tag_utf8}+site:51job.com">招聘</a>:
+			</span></b><span style="font-size: 14px">
+			<a href=http://shenghuo.google.cn/shenghuo/search?a_y0=9&a_n0=%E5%B7%A5%E4%BD%9C&q={tag_utf8}&view=Table&a_n1=%E5%9F%8E%E5%B8%82&a_y1=1&a_o1=0&a_v1=%E6%B2%88%E9%98%B3 title='google 生活搜索 - 工作' >
+			Google工作</a>
+			<a title="【招聘，求职】-前程无忧" href="http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&q={tag_utf8}+site:51job.com">前程无忧</a>
+			</span></font></li>
+		</ul>
+		<p>　</td>
+	</tr>
+</table>
+
+<p><font face="Verdana"><span style="font-size: 14px">*排名顺序不分先后，每组最多6项最少2项。</span></font></p>
+
+
